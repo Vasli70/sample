@@ -10,4 +10,3 @@ phases:
 artifacts:
   files:
     - target/sampletest_sh.jar
-  discard-paths: yes
